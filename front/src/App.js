@@ -1,4 +1,3 @@
-import './App.css';
 import HomePage from './cpn/HomePage';
 import Article from './cpn/Article';
 import {
